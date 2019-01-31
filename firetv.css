@@ -153,15 +153,15 @@ div {
   filter: brightness(200%); }
 
 .leftnav-list-item-container .leftnav-list-item-selected {
-  color: #B3DAF2;
-  background: #d9534f url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
+  color: #fff;
+  background: #000 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
 
 .leftnav-list-item-chosen {
-  border-color: #151B26;
+  border-color: #000;
   border-style: solid;
   border-width: 1px 1px 1px 0px;
-  color: #B3DAF2;
-  background: #151B26 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
+  color: #325d88;
+  background: #000 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
 
 .search-icon {
   height: 50px;
