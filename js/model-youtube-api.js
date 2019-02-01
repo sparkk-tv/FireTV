@@ -30,7 +30,7 @@
          this.createCategoriesFromSections = appSettings.createCategoriesFromSections;
 
          this.MAX_RESULTS_PER_CATEGORY = 100;
-         this.MAX_DEFAULT_PLAYLISTS = 100;
+         this.MAX_DEFAULT_PLAYLISTS = 30;
          //timeout default to 1 min
          this.TIMEOUT = 60000;
          this.tag = null;
