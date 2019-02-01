@@ -158,6 +158,36 @@
             },
             {
                 type: "playlist",
+                id: ["PL4A79YBwLx9c98d_D0qgx0ep0N535wtTU"],
+                title: "Genesis"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9eggiyMEX_ntQ6StmDy36WF"],
+                title: "Horse Mask"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
+                title: "How I Seize It (Eps 1-100)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dIb7H-2QiCsQyDddWy9Dc9"],
+                title: "How I Seize It (Eps 101-200)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dDDiWIr2dSpgtQITu3KTno"],
+                title: "How I Seize It (Eps 201-250)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "I Am Tim"
+            },
+            {
+                type: "playlist",
                 id: ["PL4A79YBwLx9cvNvTFyvafQoFDBywU0J3o"],
                 title: "Oh, Inverted World"
             },
