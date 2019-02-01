@@ -236,8 +236,9 @@ div {
   color: #B3DAF2; }
   .one-D-details-summary-text .one-D-summary-title {
     line-height: 1.4;
-    color: #B3DAF2;
-    font-size: 1.8em;
+    color: #d9534f;
+    font-size: 2em;
+    font-weight:bold;
     font-family: "Helvetica Neue Medium", "HelveticaNeue-Medium", Helvetica, Arial, sans-serif;
     height: 62px;
     overflow: hidden;
@@ -266,8 +267,9 @@ div {
     .one-D-details-summary-text .one-D-summary-pubdate .time-upcoming {
       color: #66E066; }
   .one-D-details-summary-text .one-D-summary-description {
-    color: #F2E5D5;
+    color: #868d9b;
     font-style: italic;
+    font-weight: lighter;
     font-size: 1.1em;
     overflow: hidden;
     align-items: center;
