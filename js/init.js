@@ -174,12 +174,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "     - Season 2"
+                title: "How I Seize It (Season 2)"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "     - Season 3"
+                title: "How I Seize It (Season 3)"
             },
             {
                 type: "playlist",
