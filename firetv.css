@@ -101,7 +101,7 @@ div {
   margin-top: -148px; }
 
 .leftnav-menu-scrolling-list {
-  color: #B3DAF2; }
+  color: #325d88; }
 
 .leftnav-list-item-static.leftnav-list-item-chosen.subcat-header {
   position: absolute;
@@ -145,9 +145,9 @@ div {
   margin-top: 148px; }
 
 .leftnav-list-item-highlighted {
-  color: #B3DAF2;
+  color: #fff;
   border-width: 1px 1px 1px 0px;
-  background: #d9534f url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center;
+  background: #0c0f16 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center;
   -webkit-filter: brightness(200%);
   -moz-filter: brightness(200%);
   filter: brightness(200%); }
