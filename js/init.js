@@ -169,17 +169,42 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Eps 1-100)"
+                title: "How I Seize It (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
+                title: "How I Seize It (Season 2)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
+                title: "How I Seize It (Season 3)"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dIb7H-2QiCsQyDddWy9Dc9"],
-                title: "How I Seize It (Eps 101-200)"
+                title: "How I Seize It (Season 4)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
+                title: "How I Seize It (Season 5)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
+                title: "How I Seize It (Season 6)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
+                title: "How I Seize It (Season 7)"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dDDiWIr2dSpgtQITu3KTno"],
-                title: "How I Seize It (Eps 201-250)"
+                title: "How I Seize It (Season 8)"
             },
             {
                 type: "playlist",
