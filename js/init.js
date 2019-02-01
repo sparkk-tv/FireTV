@@ -19,12 +19,7 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
-                title: "Aidan 5 (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
-                title: "Aidan 5 (Season 2)"
+                title: "Aidan 5"
             },
             {
                 type: "playlist",
@@ -59,12 +54,7 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fwSIgktWfJLKr0KpFPz1Bj"],
-                title: "Body Jumpers (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
-                title: "Body Jumpers (Season 2)"
+                title: "Body Jumpers"
             },
             {
                 type: "playlist",
@@ -84,12 +74,7 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo"],
-                title: "BTS On The Road (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo"],
-                title: "BTS On The Road (Season 2)"
+                title: "BTS On The Road"
             },
             {
                 type: "playlist",
@@ -104,12 +89,7 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB"],
-                title: "Clean Livin (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB"],
-                title: "Clean Livin (Season 2)"
+                title: "Clean Livin"
             },
             {
                 type: "playlist",
@@ -139,22 +119,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu"],
-                title: "Downtown Girls (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu"],
-                title: "Downtown Girls (Season 2)"
+                title: "Downtown Girls"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY"],
-                title: "Drifter (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY"],
-                title: "Drifter (Season 2)"
+                title: "Drifter"
             },
             {
                 type: "playlist",
@@ -199,57 +169,32 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 1)"
+                title: "How I Seize It (Eps 1-50)"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 2)"
+                title: "-- Eps 51-100"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 3)"
+                title: "-- Eps 101-150"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dIb7H-2QiCsQyDddWy9Dc9"],
-                title: "How I Seize It (Season 4)"
+                title: "-- Eps 151-200"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 5)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 6)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 7)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dDDiWIr2dSpgtQITu3KTno"],
-                title: "How I Seize It (Season 8)"
+                title: "-- Eps 201-250"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
-                title: "I Am Tim (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
-                title: "I Am Tim (Season 2)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
-                title: "I Am Tim (Season 3)"
+                title: "I Am Tim"
             },
             {
                 type: "playlist",
