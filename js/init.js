@@ -19,7 +19,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
-                title: "Aidan 5"
+                title: "Aidan 5 (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
+                title: "Aidan 5 (Season 2)"
             },
             {
                 type: "playlist",
@@ -54,7 +59,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fwSIgktWfJLKr0KpFPz1Bj"],
-                title: "Body Jumpers"
+                title: "Body Jumpers (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
+                title: "Body Jumpers (Season 2)"
             },
             {
                 type: "playlist",
@@ -74,7 +84,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo"],
-                title: "BTS On The Road"
+                title: "BTS On The Road (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo"],
+                title: "BTS On The Road (Season 2)"
             },
             {
                 type: "playlist",
@@ -89,7 +104,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB"],
-                title: "Clean Livin"
+                title: "Clean Livin (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB"],
+                title: "Clean Livin (Season 2)"
             },
             {
                 type: "playlist",
@@ -119,12 +139,22 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu"],
-                title: "Downtown Girls"
+                title: "Downtown Girls (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu"],
+                title: "Downtown Girls (Season 2)"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY"],
-                title: "Drifter"
+                title: "Drifter (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY"],
+                title: "Drifter (Season 2)"
             },
             {
                 type: "playlist",
@@ -209,7 +239,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
-                title: "I Am Tim"
+                title: "I Am Tim (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "I Am Tim (Season 2)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "I Am Tim (Season 3)"
             },
             {
                 type: "playlist",
