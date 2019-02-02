@@ -149,7 +149,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dqMJVdHnuiGkzdNyuFOSkj"],
-                title: "Ex-Factor"
+                title: "Ex-Factor (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9c6Oglr2qFB1xyQBdWHlu7O"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -228,8 +233,133 @@
             },
             {
                 type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Imperfect"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Internet Famous"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Is It Me?"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Justice"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Karma"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Kush Cafe"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Lifelike"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "LOL"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Long Distance"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Love Kabob"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Lover's Lane"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Nate & Jamie"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Noah's Oscars Preshow"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Non-Essential Personnel"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "None In The Oven"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Not By Choice"
+            },
+            {
+                type: "playlist",
                 id: ["PL4A79YBwLx9cvNvTFyvafQoFDBywU0J3o"],
                 title: "Oh, Inverted World"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Once & For All"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Ordained"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Or So The Story Goes"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Party Girl"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Phobia"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Pieces"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Real Adult Feelings"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Remembering Wednesday"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
+                title: "Rover's Hill"
             },
             {
                 type: "playlist",
