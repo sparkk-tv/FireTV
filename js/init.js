@@ -373,8 +373,148 @@
             },
             {
                 type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Sarah"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Self Storage"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Silent Stories"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Six Figures"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Slightly Dramatic"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Social Life"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Sons Of The Brotherhood"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Squatters"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Stage Fright"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Sweet Mahogany"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Bomb Shelter"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Cold Read"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Gauntlet"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Lyons Den"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Nanny Interviews"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Newtown Girls"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The People That Touch Your Food"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Real Drakoolavs"
+            },
+            {
+                type: "playlist",
                 id: ["PL4A79YBwLx9fqEy_42F4qdyyQYGaolsEA"],
                 title: "The Sentinel Chronicles"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Stranger"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "The Wig People"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Things & Stuff"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Three Guys & A Witch"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Thurston"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Trailer Made"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Twenties"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Under The Affluence"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "White Lines"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cVloc_PIQOCD2pvyRrLxJw"],
+                title: "Zomblogalypse"
             }
         ],
         displayButtons: false
