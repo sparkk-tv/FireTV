@@ -109,7 +109,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9ekYq5REzUAS02kQP8MxbEO"],
-                title: "Color Blind"
+                title: "Color Blind (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9eb73ZiVVal7zjCPxBjWE4M"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -284,7 +289,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9cwnrNePJNzu5MUNf0g2-nP"],
-                title: "Lover's Lane"
+                title: "Lover's Lane (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e4pObFJ8UqQgIQ0s7s35fh"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
