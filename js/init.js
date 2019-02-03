@@ -104,7 +104,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB"],
-                title: "Clean Livin"
+                title: "Clean Livin (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dGOcYVlJ_RISmGl3jc7iCp"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -144,7 +149,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY"],
-                title: "Drifter"
+                title: "Drifter (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cnIkefmbMfTVRKIZOEcdiz"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -284,7 +294,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9cXiMwbWnDPiyUnrAog18xf"],
-                title: "Love Kabob"
+                title: "Love Kabob (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9caj4E5-c7Hdv40X6bfPHLb"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9fyOB7miIAEd0BVjQPx0pit"],
+                title: "-- Season 3"
             },
             {
                 type: "playlist",
@@ -369,7 +389,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fSu86TeufkaByuF8kN__n7"],
-                title: "Real Adult Feelings"
+                title: "Real Adult Feelings (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e6l4wF-xJqYeDMUjjL968B"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9ehbCEXkLwc4yfX1WD447Yk"],
+                title: "-- Season 3"
             },
             {
                 type: "playlist",
@@ -489,7 +519,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9d0a8BKYr14wDokReNc91bW"],
-                title: "Things & Stuff"
+                title: "Things & Stuff (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9erYiABqJC2_X1WALSXozU1"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cEGpdMusfoEKM-c2R3hBYc"],
+                title: "-- Season 3"
             },
             {
                 type: "playlist",
