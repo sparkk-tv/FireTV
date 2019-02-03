@@ -294,7 +294,7 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9d-iZCu-jIc86d1Hjm0MPeR"],
-                title: "Karma"
+                title: "Karma (Season 1)"
             },
             {
                 type: "playlist",
@@ -324,7 +324,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9chVTNoZODvN5ziLnH79q9q"],
-                title: "LOL"
+                title: "LOL (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9f7Kj4EojNSdhXUcCihMNhh"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -554,7 +559,7 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fSaDhZgsYrYTiGn6buEQBM"],
-                title: "The Lyons Den"
+                title: "The Lyons Den (Season 1)"
             },
             {
                 type: "playlist",
