@@ -506,12 +506,12 @@ display: none;
   font-size: 1.6em; }
 
 .player-controls-timestamp-curtime {
-  color: #99692f;
+  color: #FFFFFF;
   display: inline-block;
   float: left; }
 
 .player-controls-timestamp-totaltime {
-  color: #ce9d60;
+  color: #FFFFFF;
   display: inline-block;
   float: right; }
 
