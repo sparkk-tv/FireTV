@@ -144,7 +144,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu"],
-                title: "Downtown Girls"
+                title: "Downtown Girls (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9d8a71n5l7ZIgY_Yxizbirt"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -364,7 +369,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9c_1IXQLPXfSL_UPoDUh2DG"],
-                title: "Or So The Story Goes"
+                title: "Or So The Story Goes (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9d4tI4vOZRQg6SOnQqEyL6r"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2vfSKFEtTN8UgUN5qT3Zn"],
+                title: "-- Season 3"
             },
             {
                 type: "playlist",
@@ -519,7 +534,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9epSw5yvpHWr3-oFuPrbkok"],
-                title: "The People That Touch Your Food"
+                title: "The People That Touch Your Food (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cUvs7cW_0TM31sgAv9WAU5"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -534,7 +554,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9ftyCviJvGXzb1Ib9EvL_3f"],
-                title: "The Stranger"
+                title: "The Stranger (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9c6IBGmZUHdarkEsYXGBY8s"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -569,7 +594,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fjbDZgz9mSC7YPYDblW35_"],
-                title: "Thurston"
+                title: "Thurston (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cUwJElPqwKe15eUSBdi9wR"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9f5rHbvFpD3A0-y23et9obl"],
+                title: "-- Season 3"
             },
             {
                 type: "playlist",
@@ -594,7 +629,22 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9cRSafkLBoFczB6gmYADEQM"],
-                title: "Zomblogalypse"
+                title: "Zomblogalypse (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9fkKy9gW7IClQSXPIe2kM26"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cZyA55M6HM9X_JW_rVduuZ"],
+                title: "-- Season 3"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9c5uR83pFJhCAAsFTTJI_ZW"],
+                title: "-- Season 0"
             }
         ],
         displayButtons: false
