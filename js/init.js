@@ -384,7 +384,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fEQEUkMoBtmNwfP5RcixTk"],
-                title: "Pieces"
+                title: "Pieces (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cTPq8fKhJg75dPmJ88SC8v"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -419,7 +424,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9eRZJhcSCghZ8rlxU_qFgJh"],
-                title: "Self Storage"
+                title: "Self Storage (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9c838GE-94wJfcuOxhsaSFL"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -444,7 +454,17 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9d2LUmGOC_CBLj5e7oFQrMg"],
-                title: "Sons Of The Brotherhood"
+                title: "Sons Of The Brotherhood (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9eAeU1HZ5ciKcSXJUeUo8eJ"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cn1iBfhISUB5HpmXSCmqp6"],
+                title: "-- Season 3"
             },
             {
                 type: "playlist",
@@ -484,7 +504,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dT9S1oOEnNoHMNcUarS9eI"],
-                title: "The Nanny Interviews"
+                title: "The Nanny Interviews (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9fSkgwgl5jvEB4R7d5UcDFr"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -514,7 +539,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fF0oEoEWj8zIlhT6J3kNvM"],
-                title: "The Wig People"
+                title: "The Wig People (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9c6jd1mlS6zZPK-zYRqTkhu"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
