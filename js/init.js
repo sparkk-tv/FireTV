@@ -139,7 +139,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e_zVF_iu0AXxzrSaFwVLlc"],
-                title: "Dawn"
+                title: "Dawn (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9eRTxZZAyY_u2v-2aFr0FYS"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -290,6 +295,21 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9d-iZCu-jIc86d1Hjm0MPeR"],
                 title: "Karma"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9clsnXVIwZqogvpew0otP4-"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9damR6kbbrxelWHHFTU0l8T"],
+                title: "-- Season 3"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9f02HG35jBdWgMqUKntz0iz"],
+                title: "-- Season 4"
             },
             {
                 type: "playlist",
@@ -535,6 +555,31 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9fSaDhZgsYrYTiGn6buEQBM"],
                 title: "The Lyons Den"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dFcVK5EkLk-Mvxu7Nt5N_d"],
+                title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cW-AaDEOURbHIjQKHVLCCm"],
+                title: "-- Season 3"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9fLIA666qFsn9TZvGKHUO-e"],
+                title: "-- Season 4"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9epGPnW3OCMN3kcO41Uyzua"],
+                title: "-- Season 5"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9c1rWStqzv2N52mOCqNkhpF"],
+                title: "-- Season 6"
             },
             {
                 type: "playlist",
