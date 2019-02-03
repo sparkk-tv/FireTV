@@ -188,18 +188,18 @@
             },
             {
                 type: "playlist",
-                id: ["PL4A79YBwLx9cP7FZ8hx837AQGXY_LM2e8"],
-                title: "Flicks"
-            },
-            {
-                type: "playlist",
                 id: ["PL4A79YBwLx9d7CEEcHAmagzlqrqqy4B5s"],
                 title: "Frontier Guard"
             },
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9e0PYuhgIrrJZKAoaROvVkl"],
-                title: "Geez Louise"
+                title: "Geez Louise (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9cP7FZ8hx837AQGXY_LM2e8"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
