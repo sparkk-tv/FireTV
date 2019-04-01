@@ -93,6 +93,11 @@
             },
             {
                 type: "playlist",
+                id: ["PL4A79YBwLx9fVKf-bjV-PM-kvohRFFmct"],
+                title: "-- Season 3"
+            },
+            {
+                type: "playlist",
                 id: ["PL4A79YBwLx9dfHbSKua9orok6hmNFhdwt"],
                 title: "Caledonia (Season 1)"
             },
@@ -313,6 +318,11 @@
             },
             {
                 type: "playlist",
+                id: ["PL4A79YBwLx9dZDUgVc4pWBtiFpa3Qp27l"],
+                title: "-- Season 5"
+            },
+            {
+                type: "playlist",
                 id: ["PL4A79YBwLx9dN-k0eYpnMtwqZpevKNCe_"],
                 title: "Kush Cafe"
             },
@@ -429,7 +439,12 @@
             {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dW6lreSxEJm6XkBVGE0K2c"],
-                title: "Party Girl"
+                title: "Party Girl (Season 1)"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9dulYHslHDeiIJsU87TzV3K"],
+                title: "-- Season 2"
             },
             {
                 type: "playlist",
@@ -525,6 +540,11 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9cn1iBfhISUB5HpmXSCmqp6"],
                 title: "-- Season 3"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9eWfVNjdJ2wbGWGUi1vR3vb"],
+                title: "Soulgrinder"
             },
             {
                 type: "playlist",
@@ -640,6 +660,11 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9c6jd1mlS6zZPK-zYRqTkhu"],
                 title: "-- Season 2"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9e2yJjO99hEFWAsmsMbRaFX"],
+                title: "Thick & Thin"
             },
             {
                 type: "playlist",
