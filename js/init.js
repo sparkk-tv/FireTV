@@ -298,64 +298,36 @@
                 title: "Ordained"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c_1IXQLPXfSL_UPoDUh2DG"],
-                title: "Or So The Story Goes (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9c_1IXQLPXfSL_UPoDUh2DG",
+                      "PL4A79YBwLx9d4tI4vOZRQg6SOnQqEyL6r",
+                      "PL4A79YBwLx9e2vfSKFEtTN8UgUN5qT3Zn"],
+                title: "Or So The Story Goes"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9d4tI4vOZRQg6SOnQqEyL6r"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dW6lreSxEJm6XkBVGE0K2c",
+                      "PL4A79YBwLx9dulYHslHDeiIJsU87TzV3K"],
+                title: "Party Girl"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e2vfSKFEtTN8UgUN5qT3Zn"],
-                title: "-- Season 3"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fYNVwReqm2MwS_36F8uNWY",
+                      "PL4A79YBwLx9cteXTo31bGeIntdMFvTSwW"],
+                title: "Phobia"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dW6lreSxEJm6XkBVGE0K2c"],
-                title: "Party Girl (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fEQEUkMoBtmNwfP5RcixTk",
+                      "PL4A79YBwLx9cTPq8fKhJg75dPmJ88SC8v"],
+                title: "Pieces"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dulYHslHDeiIJsU87TzV3K"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fYNVwReqm2MwS_36F8uNWY"],
-                title: "Phobia (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cteXTo31bGeIntdMFvTSwW"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fEQEUkMoBtmNwfP5RcixTk"],
-                title: "Pieces (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cTPq8fKhJg75dPmJ88SC8v"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fSu86TeufkaByuF8kN__n7"],
-                title: "Real Adult Feelings (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e6l4wF-xJqYeDMUjjL968B"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9ehbCEXkLwc4yfX1WD447Yk"],
-                title: "-- Season 3"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fSu86TeufkaByuF8kN__n7",
+                      "PL4A79YBwLx9e6l4wF-xJqYeDMUjjL968B",
+                      "PL4A79YBwLx9ehbCEXkLwc4yfX1WD447Yk"],
+                title: "Real Adult Feelings"
             },
             {
                 type: "playlist",
