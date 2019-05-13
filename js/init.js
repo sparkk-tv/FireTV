@@ -450,24 +450,16 @@
                 title: "The Sentinel Chronicles"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9ftyCviJvGXzb1Ib9EvL_3f"],
-                title: "The Stranger (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9ftyCviJvGXzb1Ib9EvL_3f",
+                      "PL4A79YBwLx9c6IBGmZUHdarkEsYXGBY8s"],
+                title: "The Stranger"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c6IBGmZUHdarkEsYXGBY8s"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fF0oEoEWj8zIlhT6J3kNvM"],
-                title: "The Wig People (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c6jd1mlS6zZPK-zYRqTkhu"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fF0oEoEWj8zIlhT6J3kNvM",
+                      "PL4A79YBwLx9c6jd1mlS6zZPK-zYRqTkhu"],
+                title: "The Wig People"
             },
             {
                 type: "playlist",
@@ -475,19 +467,11 @@
                 title: "Thick & Thin"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9d0a8BKYr14wDokReNc91bW"],
-                title: "Things & Stuff (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9erYiABqJC2_X1WALSXozU1"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cEGpdMusfoEKM-c2R3hBYc"],
-                title: "-- Season 3"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9d0a8BKYr14wDokReNc91bW",
+                      "PL4A79YBwLx9erYiABqJC2_X1WALSXozU1",
+                      "PL4A79YBwLx9cEGpdMusfoEKM-c2R3hBYc"],
+                title: "Things & Stuff"
             },
             {
                 type: "playlist",
@@ -495,19 +479,11 @@
                 title: "Three Guys & A Witch"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fjbDZgz9mSC7YPYDblW35_"],
-                title: "Thurston (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cUwJElPqwKe15eUSBdi9wR"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9f5rHbvFpD3A0-y23et9obl"],
-                title: "-- Season 3"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fjbDZgz9mSC7YPYDblW35_",
+                      "PL4A79YBwLx9cUwJElPqwKe15eUSBdi9wR",
+                      "PL4A79YBwLx9f5rHbvFpD3A0-y23et9obl"],
+                title: "Thurston"
             },
             {
                 type: "playlist",
@@ -530,24 +506,12 @@
                 title: "White Lines"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cRSafkLBoFczB6gmYADEQM"],
-                title: "Zomblogalypse (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fkKy9gW7IClQSXPIe2kM26"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cZyA55M6HM9X_JW_rVduuZ"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c5uR83pFJhCAAsFTTJI_ZW"],
-                title: "-- Season 0"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9cRSafkLBoFczB6gmYADEQM",
+                      "PL4A79YBwLx9fkKy9gW7IClQSXPIe2kM26",
+                      "PL4A79YBwLx9cZyA55M6HM9X_JW_rVduuZ",
+                      "PL4A79YBwLx9c5uR83pFJhCAAsFTTJI_ZW"],
+                title: "Zomblogalypse"
             }
         ],
         displayButtons: false
