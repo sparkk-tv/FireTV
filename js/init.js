@@ -17,6 +17,12 @@
                 title: "About Abby"
             },
             {
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A",
+                      "PL4A79YBwLx9fe4xLz2XMBJCuC_CXicocb"],
+                title: "Aidan 5"
+            },
+            {
                 type: "playlist",
                 id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
                 title: "Aidan 5 (Season 1)"
