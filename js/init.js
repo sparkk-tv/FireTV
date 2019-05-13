@@ -186,19 +186,11 @@
                 title: "How I Seize It"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw"],
-                title: "I Am Tim (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9drNvwvuxxYImnK1ITsSz3E"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9f6f8ug9YAh4mYOWTlZ2d4U"],
-                title: "-- Season 3"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dZ5Ir6Ew1fpTsyQeNkURnw",
+                      "PL4A79YBwLx9drNvwvuxxYImnK1ITsSz3E",
+                      "PL4A79YBwLx9f6f8ug9YAh4mYOWTlZ2d4U"],
+                title: "I Am Tim"
             },
             {
                 type: "playlist",
@@ -221,29 +213,13 @@
                 title: "Justice"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9d-iZCu-jIc86d1Hjm0MPeR"],
-                title: "Karma (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9clsnXVIwZqogvpew0otP4-"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9damR6kbbrxelWHHFTU0l8T"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9f02HG35jBdWgMqUKntz0iz"],
-                title: "-- Season 4"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dZDUgVc4pWBtiFpa3Qp27l"],
-                title: "-- Season 5"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9d-iZCu-jIc86d1Hjm0MPeR",
+                      "PL4A79YBwLx9clsnXVIwZqogvpew0otP4-",
+                      "PL4A79YBwLx9damR6kbbrxelWHHFTU0l8T",
+                      "PL4A79YBwLx9f02HG35jBdWgMqUKntz0iz",
+                      "PL4A79YBwLx9dZDUgVc4pWBtiFpa3Qp27l"],
+                title: "Karma"
             },
             {
                 type: "playlist",
@@ -256,14 +232,10 @@
                 title: "Lifelike"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9chVTNoZODvN5ziLnH79q9q"],
-                title: "LOL (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9f7Kj4EojNSdhXUcCihMNhh"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9chVTNoZODvN5ziLnH79q9q",
+                      "PL4A79YBwLx9f7Kj4EojNSdhXUcCihMNhh"],
+                title: "LOL"
             },
             {
                 type: "playlist",
@@ -271,44 +243,24 @@
                 title: "Long Distance"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cXiMwbWnDPiyUnrAog18xf"],
-                title: "Love Kabob (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9cXiMwbWnDPiyUnrAog18xf",
+                      "PL4A79YBwLx9caj4E5-c7Hdv40X6bfPHLb",
+                      "PL4A79YBwLx9fyOB7miIAEd0BVjQPx0pit"],
+                title: "Love Kabob"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9caj4E5-c7Hdv40X6bfPHLb"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9cwnrNePJNzu5MUNf0g2-nP",
+                      "PL4A79YBwLx9e4pObFJ8UqQgIQ0s7s35fh",
+                      "PL4A79YBwLx9deaC4VIdnGXUTLqdjKXSBh"],
+                title: "Lover's Lane"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fyOB7miIAEd0BVjQPx0pit"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cwnrNePJNzu5MUNf0g2-nP"],
-                title: "Lover's Lane (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e4pObFJ8UqQgIQ0s7s35fh"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9deaC4VIdnGXUTLqdjKXSBh"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fJZedzQXDd6SKgU4ZqykHr"],
-                title: "Nate & Jamie (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cC78eG39VXxJce1vqg7C5v"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fJZedzQXDd6SKgU4ZqykHr",
+                      "PL4A79YBwLx9cC78eG39VXxJce1vqg7C5v"],
+                title: "Nate & Jamie"
             },
             {
                 type: "playlist",
