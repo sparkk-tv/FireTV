@@ -345,14 +345,10 @@
                 title: "Sarah"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eRZJhcSCghZ8rlxU_qFgJh"],
-                title: "Self Storage (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c838GE-94wJfcuOxhsaSFL"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9eRZJhcSCghZ8rlxU_qFgJh",
+                      "PL4A79YBwLx9c838GE-94wJfcuOxhsaSFL"],
+                title: "Self Storage"
             },
             {
                 type: "playlist",
@@ -375,19 +371,11 @@
                 title: "Social Life"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9d2LUmGOC_CBLj5e7oFQrMg"],
-                title: "Sons Of The Brotherhood (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eAeU1HZ5ciKcSXJUeUo8eJ"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cn1iBfhISUB5HpmXSCmqp6"],
-                title: "-- Season 3"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9d2LUmGOC_CBLj5e7oFQrMg",
+                      "PL4A79YBwLx9eAeU1HZ5ciKcSXJUeUo8eJ",
+                      "PL4A79YBwLx9cn1iBfhISUB5HpmXSCmqp6"],
+                title: "Sons Of The Brotherhood"
             },
             {
                 type: "playlist",
@@ -425,44 +413,20 @@
                 title: "The Gauntlet"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fSaDhZgsYrYTiGn6buEQBM"],
-                title: "The Lyons Den (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fSaDhZgsYrYTiGn6buEQBM",
+                      "PL4A79YBwLx9dFcVK5EkLk-Mvxu7Nt5N_d",
+                      "PL4A79YBwLx9cW-AaDEOURbHIjQKHVLCCm",
+                      "PL4A79YBwLx9fLIA666qFsn9TZvGKHUO-e",
+                      "PL4A79YBwLx9epGPnW3OCMN3kcO41Uyzua",
+                      "PL4A79YBwLx9c1rWStqzv2N52mOCqNkhpF"],
+                title: "The Lyons Den"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dFcVK5EkLk-Mvxu7Nt5N_d"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cW-AaDEOURbHIjQKHVLCCm"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fLIA666qFsn9TZvGKHUO-e"],
-                title: "-- Season 4"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9epGPnW3OCMN3kcO41Uyzua"],
-                title: "-- Season 5"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c1rWStqzv2N52mOCqNkhpF"],
-                title: "-- Season 6"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dT9S1oOEnNoHMNcUarS9eI"],
-                title: "The Nanny Interviews (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fSkgwgl5jvEB4R7d5UcDFr"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dT9S1oOEnNoHMNcUarS9eI",
+                      "PL4A79YBwLx9fSkgwgl5jvEB4R7d5UcDFr"],
+                title: "The Nanny Interviews"
             },
             {
                 type: "playlist",
@@ -470,14 +434,10 @@
                 title: "The Newtown Girls"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9epSw5yvpHWr3-oFuPrbkok"],
-                title: "The People That Touch Your Food (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cUvs7cW_0TM31sgAv9WAU5"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9epSw5yvpHWr3-oFuPrbkok",
+                      "PL4A79YBwLx9cUvs7cW_0TM31sgAv9WAU5"],
+                title: "The People That Touch Your Food"
             },
             {
                 type: "playlist",
