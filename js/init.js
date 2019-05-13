@@ -24,16 +24,6 @@
             },
             {
                 type: "playlist",
-                id: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A"],
-                title: "Aidan 5 (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fe4xLz2XMBJCuC_CXicocb"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
                 id: ["PL4A79YBwLx9e-5RccdoTYjcTUwW5-oQjM"],
                 title: "All About Manos"
             },
@@ -63,14 +53,10 @@
                 title: "Best Friend Dad"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fwSIgktWfJLKr0KpFPz1Bj"],
-                title: "Body Jumpers (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dgScZdo0yfxYSSMd29lVei"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fwSIgktWfJLKr0KpFPz1Bj",
+                      "PL4A79YBwLx9dgScZdo0yfxYSSMd29lVei"],
+                title: "Body Jumpers"
             },
             {
                 type: "playlist",
@@ -88,29 +74,17 @@
                 title: "BrothAhood"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo"],
-                title: "BTS On The Road (Season 1)"
+                type: "mutliPlaylists",
+                ids: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo",
+                      "PL4A79YBwLx9eVscj_WaUodYnbT4sFqxmz",
+                      "PL4A79YBwLx9fVKf-bjV-PM-kvohRFFmct"],
+                title: "BTS On The Road"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eVscj_WaUodYnbT4sFqxmz"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fVKf-bjV-PM-kvohRFFmct"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dfHbSKua9orok6hmNFhdwt"],
-                title: "Caledonia (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fNQqA1ZTt6xuvmtrfnnvmE"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dfHbSKua9orok6hmNFhdwt",
+                      "PL4A79YBwLx9fNQqA1ZTt6xuvmtrfnnvmE"],
+                title: "Caledonia"
             },
             {
                 type: "playlist",
@@ -118,24 +92,16 @@
                 title: "Cheerleader Karate School"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB"],
-                title: "Clean Livin (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB",
+                     "PL4A79YBwLx9dGOcYVlJ_RISmGl3jc7iCp"],
+                title: "Clean Livin"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dGOcYVlJ_RISmGl3jc7iCp"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9ekYq5REzUAS02kQP8MxbEO"],
-                title: "Color Blind (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eb73ZiVVal7zjCPxBjWE4M"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9ekYq5REzUAS02kQP8MxbEO",
+                      "PL4A79YBwLx9eb73ZiVVal7zjCPxBjWE4M"],
+                title: "Color Blind"
             },
             {
                 type: "playlist",
