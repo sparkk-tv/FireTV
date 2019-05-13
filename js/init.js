@@ -114,14 +114,10 @@
                 title: "Davey's Diary"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e_zVF_iu0AXxzrSaFwVLlc"],
-                title: "Dawn (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eRTxZZAyY_u2v-2aFr0FYS"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9e_zVF_iu0AXxzrSaFwVLlc",
+                      "PL4A79YBwLx9eRTxZZAyY_u2v-2aFr0FYS"],
+                title: "Dawn"
             },
             {
                 type: "playlist",
@@ -129,24 +125,16 @@
                 title: "Death's Door"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu"],
-                title: "Downtown Girls (Season 1)"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9clyeB5Xwl0xLcCa7JUm6mu",
+                      "PL4A79YBwLx9d8a71n5l7ZIgY_Yxizbirt"],
+                title: "Downtown Girls"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9d8a71n5l7ZIgY_Yxizbirt"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY"],
-                title: "Drifter (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cnIkefmbMfTVRKIZOEcdiz"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9fTpu8iX5Bdncp6extd1JyY",
+                      "PL4A79YBwLx9cnIkefmbMfTVRKIZOEcdiz"],
+                title: "Drifter"
             },
             {
                 type: "playlist",
@@ -154,14 +142,10 @@
                 title: "Eris"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dqMJVdHnuiGkzdNyuFOSkj"],
-                title: "Ex-Factor (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9c6Oglr2qFB1xyQBdWHlu7O"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9dqMJVdHnuiGkzdNyuFOSkj",
+                      "PL4A79YBwLx9c6Oglr2qFB1xyQBdWHlu7O"],
+                title: "Ex-Factor"
             },
             {
                 type: "playlist",
@@ -174,14 +158,10 @@
                 title: "Frontier Guard"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e0PYuhgIrrJZKAoaROvVkl"],
-                title: "Geez Louise (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cP7FZ8hx837AQGXY_LM2e8"],
-                title: "-- Season 2"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9e0PYuhgIrrJZKAoaROvVkl",
+                      "PL4A79YBwLx9cP7FZ8hx837AQGXY_LM2e8"],
+                title: "Geez Louise"
             },
             {
                 type: "playlist",
@@ -194,44 +174,16 @@
                 title: "Horse Mask"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r"],
-                title: "How I Seize It (Season 1)"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fPDPZOqzwFOXgt4_-9JodW"],
-                title: "-- Season 2"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dKz_e3N8brfMsCS-T0xrSu"],
-                title: "-- Season 3"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dIb7H-2QiCsQyDddWy9Dc9"],
-                title: "-- Season 4"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fKNpxf0WtIFyjndda_F9GH"],
-                title: "-- Season 5"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eHDh5wjADMDgJ2kW_pHhmB"],
-                title: "-- Season 6"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9dDDiWIr2dSpgtQITu3KTno"],
-                title: "-- Season 7"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fGaH-sd8r9Ey-6Dw2zJk6y"],
-                title: "-- Season 8"
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9e2WGPjvIvHjJhjerlfCd8r",
+                      "PL4A79YBwLx9fPDPZOqzwFOXgt4_-9JodW",
+                      "PL4A79YBwLx9dKz_e3N8brfMsCS-T0xrSu",
+                      "PL4A79YBwLx9dIb7H-2QiCsQyDddWy9Dc9",
+                      "PL4A79YBwLx9fKNpxf0WtIFyjndda_F9GH",
+                      "PL4A79YBwLx9eHDh5wjADMDgJ2kW_pHhmB",
+                      "PL4A79YBwLx9dDDiWIr2dSpgtQITu3KTno",
+                      "PL4A79YBwLx9fGaH-sd8r9Ey-6Dw2zJk6y"],
+                title: "How I Seize It"
             },
             {
                 type: "playlist",
