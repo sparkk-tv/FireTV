@@ -345,12 +345,6 @@
                 title: "Sarah"
             },
             {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9eRZJhcSCghZ8rlxU_qFgJh",
-                      "PL4A79YBwLx9c838GE-94wJfcuOxhsaSFL"],
-                title: "Self Storage"
-            },
-            {
                 type: "playlist",
                 id: ["PL4A79YBwLx9f6jgs4PdD6_9iGmNUSEY48"],
                 title: "Silent Stories"
