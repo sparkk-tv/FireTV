@@ -69,8 +69,9 @@
                 title: "Boost"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9cBIs3QJYYSRHIUbfnYCgsF"],
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9cBIs3QJYYSRHIUbfnYCgsF",
+                      "PL4A79YBwLx9e47gxH_sZOYSY2V4yBpKJD"],
                 title: "BrothAhood"
             },
             {
