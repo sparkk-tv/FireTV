@@ -170,8 +170,9 @@
                 title: "Genesis"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eggiyMEX_ntQ6StmDy36WF"],
+                type: "multiPlaylists",
+                ids: ["PL4A79YBwLx9eggiyMEX_ntQ6StmDy36WF",
+                      "PL4A79YBwLx9d47hZcC_fEEVDecaly4dvh"],
                 title: "Horse Mask"
             },
             {
