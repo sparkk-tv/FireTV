@@ -260,8 +260,9 @@
                 type: "multiPlaylists",
                 ids: ["PL4A79YBwLx9cwnrNePJNzu5MUNf0g2-nP",
                       "PL4A79YBwLx9e4pObFJ8UqQgIQ0s7s35fh",
-                      "PL4A79YBwLx9deaC4VIdnGXUTLqdjKXSBh"],
-                title: "Lover's Lane"
+                      "PL4A79YBwLx9deaC4VIdnGXUTLqdjKXSBh",
+                      "PL4A79YBwLx9dNyXReGT4jhTKzhE2f2YsN"],
+                title: "Lovers Lane"
             },
             {
                 type: "multiPlaylists",
