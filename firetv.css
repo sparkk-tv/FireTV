@@ -38,7 +38,7 @@ body {
   margin: 0;
   font-size: 20pt;
   font-family: "Helvetica Neue Light", "HelveticaNeue-Light", Helvetica, Arial, sans-serif;
-  background: #2d2d32 none no-repeat left top;
+  background: #112c45 none no-repeat left top;
   background-size: 100% 100%; }
 
 div {
@@ -101,7 +101,7 @@ div {
   margin-top: -148px; }
 
 .leftnav-menu-scrolling-list {
-  color: #112c45; }
+  color: #65fd8e; }
 
 .leftnav-list-item-static.leftnav-list-item-chosen.subcat-header {
   position: absolute;
@@ -160,7 +160,7 @@ div {
   border-color: #000;
   border-style: solid;
   border-width: 1px 1px 1px 0px;
-  color: #325d88;
+  color: #65fd8e;
   background: #000 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
 
 .search-icon {
