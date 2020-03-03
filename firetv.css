@@ -101,7 +101,7 @@ div {
   margin-top: -148px; }
 
 .leftnav-menu-scrolling-list {
-  color: #325d88; }
+  color: #112c45; }
 
 .leftnav-list-item-static.leftnav-list-item-chosen.subcat-header {
   position: absolute;
@@ -236,7 +236,7 @@ div {
   color: #B3DAF2; }
   .one-D-details-summary-text .one-D-summary-title {
     line-height: 1.5;
-    color: #d9534f;
+    color: #187fdd;
     font-size: 1.4em;
     font-weight:bold;
     font-family: "Helvetica Neue Medium", "HelveticaNeue-Medium", Helvetica, Arial, sans-serif;
@@ -519,7 +519,7 @@ display: none;
   position: absolute;
   top: 80px;
   height: 59px;
-  color: #d9534f;
+  color: #187fdd;
   font-size: 1.4em;
   font-weight: bold;
   font-family: "Helvetica Neue Medium", "HelveticaNeue-Medium", Helvetica, Arial, sans-serif;
