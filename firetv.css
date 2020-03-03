@@ -157,11 +157,11 @@ div {
   background: #000 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
 
 .leftnav-list-item-chosen {
-  border-color: #000;
+  border-color: #2D2D32;
   border-style: solid;
   border-width: 1px 1px 1px 0px;
   color: #65fd8e;
-  background: #000 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
+  background: #2D2D32 url("assets/icon_leftnav_arrowDown.png") no-repeat right 40px center; }
 
 .search-icon {
   height: 50px;
