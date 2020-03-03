@@ -732,13 +732,13 @@ display: none;
 .app-logo {
   position: absolute;
   bottom: -10px;
-  right: 60px;
+  right: 0px;
   -webkit-transform: scale(0.75);
   -moz-transform: scale(0.75);
   transform: scale(0.75); }
   .app-logo img {
     height: 240px;
-    width: 240px; }
+    width: 500px; }
 
 .leftnav-main-container {
   width: 75%; }
