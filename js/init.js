@@ -69,12 +69,6 @@
                 title: "Boost"
             },
             {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9cBIs3QJYYSRHIUbfnYCgsF",
-                      "PL4A79YBwLx9e47gxH_sZOYSY2V4yBpKJD"],
-                title: "BrothAhood"
-            },
-            {
                 type: "mutliPlaylists",
                 ids: ["PL4A79YBwLx9epmy6DlD1JuZeIgQRyTAxo",
                       "PL4A79YBwLx9eVscj_WaUodYnbT4sFqxmz",
@@ -97,12 +91,6 @@
                 ids: ["PL4A79YBwLx9dFVxs6Byf58lmOBeMyv0YB",
                      "PL4A79YBwLx9dGOcYVlJ_RISmGl3jc7iCp"],
                 title: "Clean Livin"
-            },
-            {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9ekYq5REzUAS02kQP8MxbEO",
-                      "PL4A79YBwLx9eb73ZiVVal7zjCPxBjWE4M"],
-                title: "Color Blind"
             },
             {
                 type: "playlist",
@@ -143,12 +131,6 @@
                 title: "Eris"
             },
             {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9dqMJVdHnuiGkzdNyuFOSkj",
-                      "PL4A79YBwLx9c6Oglr2qFB1xyQBdWHlu7O"],
-                title: "Ex-Factor"
-            },
-            {
                 type: "playlist",
                 id: ["PL4A79YBwLx9fgR9RYyG8rdp7ITcPj-ZXx"],
                 title: "Falling Apart"
@@ -184,7 +166,8 @@
                       "PL4A79YBwLx9fKNpxf0WtIFyjndda_F9GH",
                       "PL4A79YBwLx9eHDh5wjADMDgJ2kW_pHhmB",
                       "PL4A79YBwLx9dDDiWIr2dSpgtQITu3KTno",
-                      "PL4A79YBwLx9fGaH-sd8r9Ey-6Dw2zJk6y"],
+                      "PL4A79YBwLx9fGaH-sd8r9Ey-6Dw2zJk6y",
+                      "PL4A79YBwLx9e_XdVg6UqIlyFM_lsQ-wGz"],
                 title: "How I Seize It"
             },
             {
@@ -201,11 +184,6 @@
             },
             {
                 type: "playlist",
-                id: ["PL4A79YBwLx9cJsApxFyH0c_DMDfmIg2qo"],
-                title: "In The Nick Of Time"
-            },
-            {
-                type: "playlist",
                 id: ["PL4A79YBwLx9f184f8W5EOvOEY9vG2fAtp"],
                 title: "Internet Famous"
             },
@@ -218,15 +196,6 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9dY8BCmksG3zv5wecAjHrcP"],
                 title: "Justice"
-            },
-            {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9d-iZCu-jIc86d1Hjm0MPeR",
-                      "PL4A79YBwLx9clsnXVIwZqogvpew0otP4-",
-                      "PL4A79YBwLx9damR6kbbrxelWHHFTU0l8T",
-                      "PL4A79YBwLx9f02HG35jBdWgMqUKntz0iz",
-                      "PL4A79YBwLx9dZDUgVc4pWBtiFpa3Qp27l"],
-                title: "Karma"
             },
             {
                 type: "playlist",
@@ -255,14 +224,6 @@
                       "PL4A79YBwLx9caj4E5-c7Hdv40X6bfPHLb",
                       "PL4A79YBwLx9fyOB7miIAEd0BVjQPx0pit"],
                 title: "Love Kabob"
-            },
-            {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9cwnrNePJNzu5MUNf0g2-nP",
-                      "PL4A79YBwLx9e4pObFJ8UqQgIQ0s7s35fh",
-                      "PL4A79YBwLx9deaC4VIdnGXUTLqdjKXSBh",
-                      "PL4A79YBwLx9dNyXReGT4jhTKzhE2f2YsN"],
-                title: "Lovers Lane"
             },
             {
                 type: "multiPlaylists",
@@ -359,11 +320,6 @@
             },
             {
                 type: "playlist",
-                id: ["PL4A79YBwLx9fJC6atPEF1cioah52-qo__"],
-                title: "SistAhood"
-            },
-            {
-                type: "playlist",
                 id: ["PL4A79YBwLx9d-ZB0rsMgpSe0n5y85ThIl"],
                 title: "Six Figures"
             },
@@ -385,8 +341,9 @@
                 title: "Sons Of The Brotherhood"
             },
             {
-                type: "playlist",
-                id: ["PL4A79YBwLx9eWfVNjdJ2wbGWGUi1vR3vb"],
+                type: "multiPlaylisst",
+                ids: ["PL4A79YBwLx9eWfVNjdJ2wbGWGUi1vR3vb",
+                      "PL4A79YBwLx9eeQRs7hE-Y8XhGBeJ7yO71"],
                 title: "Soulgrinder"
             },
             {
@@ -398,11 +355,6 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9eSdxCNwwFVfbLC3TjEW06N"],
                 title: "Stage Fright"
-            },
-            {
-                type: "playlist",
-                id: ["PL4A79YBwLx9fdPX2NLSLQI-x71UN0T7vI"],
-                title: "Sweet Mahogany"
             },
             {
                 type: "playlist",
@@ -418,16 +370,6 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9c38FMUEg4E_qjhYOqTL1Re"],
                 title: "The Gauntlet"
-            },
-            {
-                type: "multiPlaylists",
-                ids: ["PL4A79YBwLx9fSaDhZgsYrYTiGn6buEQBM",
-                      "PL4A79YBwLx9dFcVK5EkLk-Mvxu7Nt5N_d",
-                      "PL4A79YBwLx9cW-AaDEOURbHIjQKHVLCCm",
-                      "PL4A79YBwLx9fLIA666qFsn9TZvGKHUO-e",
-                      "PL4A79YBwLx9epGPnW3OCMN3kcO41Uyzua",
-                      "PL4A79YBwLx9c1rWStqzv2N52mOCqNkhpF"],
-                title: "The Lyons Den"
             },
             {
                 type: "multiPlaylists",
@@ -511,6 +453,11 @@
                 type: "playlist",
                 id: ["PL4A79YBwLx9ekois38kVCnYAiN99cgsp7"],
                 title: "White Lines"
+            },
+            {
+                type: "playlist",
+                id: ["PL4A79YBwLx9fSn7WiWwL3nwSTttfKMoPY"],
+                title: "Wicked Enigma"
             },
             {
                 type: "multiPlaylists",
