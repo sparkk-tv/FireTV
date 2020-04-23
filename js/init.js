@@ -53,6 +53,11 @@
                 title: "Best Friend Dad"
             },
             {
+                type: "playlist",
+                id: ["PL4A79YBwLx9eLbW7WKijzB5i5xNXp9-LD"],
+                title: "Blakemore"
+            },
+            {
                 type: "multiPlaylists",
                 ids: ["PL4A79YBwLx9fwSIgktWfJLKr0KpFPz1Bj",
                       "PL4A79YBwLx9dgScZdo0yfxYSSMd29lVei"],
