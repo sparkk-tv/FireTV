@@ -363,6 +363,11 @@
             },
             {
                 type: "playlist",
+                id: ["PL4A79YBwLx9cm4HCDSf2meebjJPbougwu"],
+                title: "Stone"
+            },
+            {
+                type: "playlist",
                 id: ["PL4A79YBwLx9eIzlF17cl0B7stY3y9FVgh"],
                 title: "The Bomb Shelter"
             },
