@@ -17,7 +17,7 @@
                 title: "About Abby"
             },
             {
-                type: "multiPlaylists",
+                type: "playlist",
                 ids: ["PL4A79YBwLx9dftxTfDKQkFDUI1Z1kI01A",
                       "PL4A79YBwLx9fe4xLz2XMBJCuC_CXicocb"],
                 title: "Aidan 5"
